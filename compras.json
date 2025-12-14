@@ -1,0 +1,11 @@
+{
+  "compras": [
+    {
+      "id": 1,
+      "cliente": "Juan Perez",
+      "producto": "Laptop Lenovo",
+      "cantidad": 1,
+      "total": 3500
+    }
+  ]
+}
