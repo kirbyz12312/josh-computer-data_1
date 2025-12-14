@@ -1,0 +1,11 @@
+{
+  "computers": [
+    {
+      "id": 1,
+      "model": "Josh Pro X",
+      "price": 1200,
+      "customer": "Juan Pérez",
+      "purchase_date": "2025-11-10"
+    }
+  ]
+}
